@@ -23,9 +23,9 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Suyuan Liu"
-  pronouns         : "she/her"  
-  bio              : "Embrace the journey."
-  location         : "Hefei, Anhui, China"
+  pronouns         : # "she/her", "he/him", "they/them", etc.
+  bio              : "🌟Always embrace the journey🌟"
+  location         : # "Hefei, China"
   employer         : "USTC"
   email            : "lsysue@mail.ustc.edu.cn" 
 
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "Lsysue"
+  github           : "lsysue"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
